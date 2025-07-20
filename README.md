@@ -20,31 +20,54 @@ I **merge computer vision, AI, neuroengineering, and robotics** to **develop and
 ### 🛠 Tech Stack
 
 <p align="center">
+  <!-- Core Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FCC72A?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/vLLM-2C2C2C?style=for-the-badge&logo=lightning&logoColor=white" />
+  <!-- Tools & Frameworks -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 Featured Projects
 
-Here are some of my most notable projects (explore my repositories for more details):
+<p align="center">
 
-- **DLAV-3DLOC**  
-  *3D vehicle localization system using monocular camera input for autonomous navigation.*
+  <!-- DLAV-3DLOC -->
+  <img src="https://img.icons8.com/fluency/48/000000/car-top-view.png" width="36" alt="vehicle" />
+  <b>DLAV-3DLOC</b>  
+  <i>3D vehicle localization system using monocular camera input for autonomous navigation.</i>
 
-- **Frames Reconstruction from fMRI**  
-  *Deep learning pipeline reconstructing visual frames from brain activity (fMRI data).*
+  ---
 
-- **ADA Data Story**  
-  *Interactive analysis and storytelling project exploring cinema history with large-scale data.*
+  <!-- Frames Reconstruction -->
+  <img src="https://img.icons8.com/emoji/48/brain-emoji.png" width="36" alt="brain" />
+  <b>Frames Reconstruction from fMRI</b>  
+  <i>Deep learning pipeline reconstructing visual frames from brain activity (fMRI data).</i>
 
-- **NBA Players Reconstruction (AI & Sports)**  
-  *Computer vision and biomechanics pipeline for reconstructing basketball player motion from video, enabling advanced sports analytics and injury-risk studies.*
+  ---
+
+  <!-- ADA Project -->
+  <img src="https://img.icons8.com/color/48/movie-projector.png" width="36" alt="cinema" />
+  <b>ADA Data Story</b>  
+  <i>Interactive storytelling project exploring the evolution of cinema using large-scale datasets.</i>
+
+  ---
+
+  <!-- NBA Players Reconstruction -->
+  <img src="https://img.icons8.com/color/48/basketball.png" width="36" alt="basketball" />
+  <b>NBA Players Reconstruction</b>  
+  <i>Computer vision and biomechanics pipeline reconstructing basketball player motion from video, powering sports analytics and injury-risk assessment.</i>
+
+</p>
 
 ---
 
