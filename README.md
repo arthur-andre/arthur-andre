@@ -13,7 +13,7 @@
 ### 👋 About Me
 
 Hi, I’m **Arthur Andre**, a **Robotics and Neuro-X Engineer** (EPFL, Switzerland).  
-I **merge computer vision, AI, neuroengineering, and robotics** to **develop and implement real-world products and tools** — from assistive technologies to advanced sports analytics and autonomous perception systems.
+I **merge Computer Vision, AI and Machine Learning techniques, robotics and neuroengineering** to **develop and implement real-world products and tools** — from assistive technologies to advanced sports analytics and autonomous perception systems.
 
 ---
 
