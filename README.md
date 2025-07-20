@@ -1,70 +1,79 @@
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://path.to/your/banner.svg" alt="Banner visuel" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C6FF&height=200&section=header&text=Arthur%20Andre&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="banner"/>
 </p>
 
-<h1 align="center">Salut, je suis <b>Arthur André</b> 👋</h1>
+<!-- Typing effect for title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Robotics+Engineer;Machine+Learning+Researcher;Computer+Vision+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
+</p>
+
+---
+
+### 👋 About Me
+
+Hi, I’m **Arthur Andre**, a **Robotics Engineer and Machine Learning Researcher** (EPFL, Switzerland).  
+I design and prototype systems that merge **computer vision, AI, neuroengineering, and robotics** to create **innovative tools** — from assistive technologies to 3D perception for autonomous systems.
+
+---
+
+### 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://github.com/arthur-andre">
-    <img src="https://komarev.com/ghpvc/?username=arthur-andre&color=blue" alt="visitors" />
-  </a>
-  <a href="https://twitter.com/YourHandle">
-    <img src="https://img.shields.io/twitter/follow/YourHandle?style=social" alt="Twitter Follow" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
 ---
 
-## 🎓 Qui suis‑je ?
-Ingénieur en machine learning passionné par la vision par ordinateur, l’IA créative et les interfaces visuelles. Diplômé de [ton école], je travaille actuellement sur [ton sujet actuel].
+### 🚀 Featured Projects (Dynamic Cards)
 
----
-
-## 🔧 Outils & Tech
-
-### Langages & Frameworks  
-<p>  
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />  
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" />  
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />  
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />  
-  <img alt="JAX" src="https://img.shields.io/badge/-JAX-000000?logo=jax&logoColor=white" />  
-</p>
-
-### Vision & UX  
-<p>  
-  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" />  
-  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white" />  
-  <img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white" />  
-</p>
-
----
-
-## 🚀 Projets récents
-
-| Projet | Description |
-|-------|-------------|
-| **SketchToReality** | Fine‑tuning d’un LLM pour transformer esquisses en générateurs 3D. |
-| **Acoustic Scene Classification** | Classification audio avec CNN + AudioCLIP (challenge DCASE21). |
-| **Help‑Mates GA** | Simulations de comportements d’IA évolutive dans Unity (INF633, École Polytechnique). |
-
-*Découvre mes notebooks et codes ML interfacés à des outils visuels.*
-
----
-
-## 📫 Contact
-
-- 📧 arthur.andre@exemple.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/arthur-andre)  
-- 📝 [Mon site / portfolio](https://arthur-andre.dev)
-
----
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthur-andre&show_icons=true&theme=radical" alt="GitHub Stats"/>
+
+<!-- DLAV-3DLOC -->
+<a href="https://github.com/arthur-andre/DLAV-3DLOC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-andre&repo=DLAV-3DLOC&theme=radical" />
+</a>
+
+<!-- fMRI Reconstruction -->
+<a href="https://github.com/arthur-andre/frames-reconstrcution-from-fmri">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-andre&repo=frames-reconstrcution-from-fmri&theme=radical" />
+</a>
+
+<!-- ADA Project -->
+<a href="https://epfl-ada.github.io/ada-2022-project-teamlovelace/">
+  <img src="https://img.shields.io/badge/ADA%202022-Interactive%20Data%20Story-orange?style=for-the-badge&logo=githubpages" />
+</a>
+
 </p>
 
 ---
 
-**📌 Touchez pas — clonez/branchez ce modèle si souhaité.**
+### 🌍 Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/French-Native-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-Proficient-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/German-Basic-green?style=for-the-badge" />
+</p>
+
+---
+
+### 📫 Let’s Connect
+
+<p align="center">
+  <a href="mailto:arthur.andre0222@gmail.com"><img src="https://img.shields.io/badge/Email-arthur.andre0222%40gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/arthur-andre"><img src="https://img.shields.io/badge/LinkedIn-Arthur%20Andre-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/arthur-andre"><img src="https://img.shields.io/badge/GitHub-arthur--andre-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:007BFF&height=120&section=footer" />
+</p>
