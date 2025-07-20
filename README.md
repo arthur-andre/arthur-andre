@@ -42,7 +42,7 @@ I **merge Computer Vision, AI and Machine Learning techniques, robotics and neur
 <p align="center">
 
   <!-- DLAV-3DLOC -->
-  <img src="https://img.icons8.com/fluency/48/000000/car-top-view.png" width="32" alt="vehicle" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-radar-smart-transportation-flat-flat-juicy-fish.png" width="40" alt="3D localization" />
   <b>DLAV-3DLOC</b>  
   <i>3D vehicle localization system using monocular camera input for autonomous navigation.</i>
 
