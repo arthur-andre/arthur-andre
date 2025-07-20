@@ -5,15 +5,15 @@
 
 <!-- Typing effect for title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Robotics+Engineer;Machine+Learning+Researcher;Computer+Vision+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Robotics+Engineer;Machine+Learning+And+Data+Oriented;Computer+Vision+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 About Me
 
-Hi, I’m **Arthur Andre**, a **Robotics Engineer and Machine Learning Researcher** (EPFL, Switzerland).  
-I design and prototype systems that merge **computer vision, AI, neuroengineering, and robotics** to create **innovative tools** — from assistive technologies to 3D perception for autonomous systems.
+Hi, I’m **Arthur Andre**, a **Robotics and Neuro-X Engineer** (EPFL, Switzerland).  
+I **merge computer vision, AI, neuroengineering, and robotics** to **develop and implement real-world products and tools** — from assistive technologies to advanced sports analytics and autonomous perception systems.
 
 ---
 
@@ -30,26 +30,21 @@ I design and prototype systems that merge **computer vision, AI, neuroengineerin
 
 ---
 
-### 🚀 Featured Projects (Dynamic Cards)
+### 🚀 Selected Projects
 
-<p align="center">
+Here are some of my most notable projects (explore my repositories for more details):
 
-<!-- DLAV-3DLOC -->
-<a href="https://github.com/arthur-andre/DLAV-3DLOC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-andre&repo=DLAV-3DLOC&theme=radical" />
-</a>
+- **DLAV-3DLOC**  
+  *3D vehicle localization system using monocular camera input for autonomous navigation.*
 
-<!-- fMRI Reconstruction -->
-<a href="https://github.com/arthur-andre/frames-reconstrcution-from-fmri">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-andre&repo=frames-reconstrcution-from-fmri&theme=radical" />
-</a>
+- **Frames Reconstruction from fMRI**  
+  *Deep learning pipeline reconstructing visual frames from brain activity (fMRI data).*
 
-<!-- ADA Project -->
-<a href="https://epfl-ada.github.io/ada-2022-project-teamlovelace/">
-  <img src="https://img.shields.io/badge/ADA%202022-Interactive%20Data%20Story-orange?style=for-the-badge&logo=githubpages" />
-</a>
+- **ADA Data Story**  
+  *Interactive analysis and storytelling project exploring cinema history with large-scale data.*
 
-</p>
+- **NBA Players Reconstruction (AI & Sports)**  
+  *Computer vision and biomechanics pipeline for reconstructing basketball player motion from video, enabling advanced sports analytics and injury-risk studies.*
 
 ---
 
@@ -68,12 +63,10 @@ I design and prototype systems that merge **computer vision, AI, neuroengineerin
 <p align="center">
   <a href="mailto:arthur.andre0222@gmail.com"><img src="https://img.shields.io/badge/Email-arthur.andre0222%40gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://linkedin.com/in/arthur-andre"><img src="https://img.shields.io/badge/LinkedIn-Arthur%20Andre-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/arthur-andre"><img src="https://img.shields.io/badge/GitHub-arthur--andre-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:007BFF&height=120&section=footer" />
 </p>
