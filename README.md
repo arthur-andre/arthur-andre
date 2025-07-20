@@ -39,43 +39,40 @@ I **merge Computer Vision, AI and Machine Learning techniques, robotics and neur
 
 ### 🚀 Featured Projects
 
-<p align="center">
-
-  <!-- DLAV-3DLOC -->
-  <p align="center">
-    <img src="https://img.icons8.com/fluency/48/drone.png" width="40" alt="3D localization" />
-  </p>
-  <b>DLAV-3DLOC</b>  
-  <i>3D vehicle localization system using monocular camera input for autonomous navigation.</i>
-
-  ---
-
-  <!-- Frames Reconstruction -->
-  <p align="center">
-    <img src="https://img.icons8.com/emoji/48/brain-emoji.png" width="36" alt="brain" />
-  </p>
-  <b>Frames Reconstruction from fMRI</b>  
-  <i>Deep learning pipeline reconstructing visual frames from brain activity (fMRI data).</i>
-
-  ---
-
-  <!-- ADA Project -->
-  <p align="center">
-    <img src="https://img.icons8.com/color/48/movie-projector.png" width="36" alt="cinema" />
-  </p>
-  <b>ADA Data Story</b>  
-  <i>Interactive storytelling project exploring the evolution of cinema using large-scale datasets.</i>
-
-  ---
-
-  <!-- NBA Players Reconstruction -->
-  <p align="center">
-    <img src="https://img.icons8.com/color/48/basketball.png" width="36" alt="basketball" />
-  </p>
-  <b>NBA Players Reconstruction</b>  
-  <i>Computer vision and biomechanics pipeline reconstructing basketball player motion from video, powering sports analytics and injury-risk assessment.</i>
-
+<!-- DLAV-3DLOC -->
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/drone.png" width="40" alt="3D localization" />
 </p>
+<b>DLAV-3DLOC</b>  
+<i>3D vehicle localization system using monocular camera input for autonomous navigation.</i>
+
+---
+
+<!-- Frames Reconstruction -->
+<p align="left">
+  <img src="https://img.icons8.com/emoji/48/brain-emoji.png" width="36" alt="brain" />
+</p>
+<b>Frames Reconstruction from fMRI</b>  
+<i>Deep learning pipeline reconstructing visual frames from brain activity (fMRI data).</i>
+
+---
+
+<!-- ADA Project -->
+<p align="left">
+  <img src="https://img.icons8.com/color/48/movie-projector.png" width="36" alt="cinema" />
+</p>
+<b>ADA Data Story</b>  
+<i>Interactive storytelling project exploring the evolution of cinema using large-scale datasets.</i>
+
+---
+
+<!-- NBA Players Reconstruction -->
+<p align="left">
+  <img src="https://img.icons8.com/color/48/basketball.png" width="36" alt="basketball" />
+</p>
+<b>NBA Players Reconstruction</b>  
+<i>Computer vision and biomechanics pipeline reconstructing basketball player motion from video, powering sports analytics and injury-risk assessment.</i>
+
 
 ---
 
