@@ -5,7 +5,7 @@
 
 <!-- Typing effect for title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Robotics+Engineer;Machine+Learning+&+Data-Oriented;AI+Vision+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Robotics+Engineer;Machine+Learning+and+Data-Oriented;AI+Vision+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
 </p>
 
 ---
