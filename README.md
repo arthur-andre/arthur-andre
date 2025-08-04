@@ -90,7 +90,7 @@ I **merge Computer Vision, AI and Machine Learning techniques, robotics and neur
 
 <p align="center">
   <a href="mailto:arthur.andre0222@gmail.com"><img src="https://img.shields.io/badge/Email-arthur.andre0222%40gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/arthur-andre"><img src="https://img.shields.io/badge/LinkedIn-Arthur%20Andre-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="[https://linkedin.com/in/arthur-andre](https://www.linkedin.com/in/arthur-andr%C3%A9-277064278/)"><img src="https://img.shields.io/badge/LinkedIn-Arthur%20Andre-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
