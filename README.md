@@ -38,52 +38,52 @@ I build systems at the intersection of **vision**, **learning** and **robotics**
 <tr>
 <td><b>Languages</b></td>
 <td>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&amp;logo=c%2B%2B&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&amp;logo=mathworks&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&amp;logo=postgresql&amp;logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td><b>AI / ML</b></td>
 <td>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vLLM-1a1a2e?style=flat&logo=lightning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&amp;logo=pytorch&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&amp;logo=huggingface&amp;logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&amp;logo=opencv&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&amp;logo=scikitlearn&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/vLLM-1a1a2e?style=flat&amp;logo=lightning&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&amp;logo=nvidia&amp;logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td><b>LLM / RAG</b></td>
 <td>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-4A154B?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP-58a6ff?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&amp;logo=langchain&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-4A154B?style=flat&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-58a6ff?style=flat&amp;logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td><b>Backend</b></td>
 <td>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&amp;logo=fastapi&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&amp;logo=postgresql&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&amp;logo=rabbitmq&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&amp;logo=swagger&amp;logoColor=black"/>
 </td>
 </tr>
 <tr>
 <td><b>Tools</b></td>
 <td>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&amp;logo=gnubash&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&amp;logo=nginx&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&amp;logo=latex&amp;logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -204,8 +204,8 @@ Robotic project using a Thymio robot to autonomously complete a maze using compu
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arthur-andre&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-andre&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=Jupyter%20Notebook" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arthur-andre&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;ring_color=58a6ff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-andre&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;hide=Jupyter%20Notebook" />
 </div>
 
 <br/>
