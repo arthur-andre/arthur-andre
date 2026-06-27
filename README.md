@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d6af2,100:1a1b27&height=220&section=header&text=Arthur%20Andre&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20%26%20Neuro-X%20Engineer&descSize=18&descColor=c9d1d9&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,50:2d6af2,100:1a1b27&amp;height=220&amp;section=header&amp;text=Arthur%20Andre&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Robotics%20and%20Neuro-X%20Engineer&amp;descSize=18&amp;descColor=c9d1d9&amp;descAlignY=55" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=35&lines=Computer+Vision+%7C+Deep+Learning+%7C+Robotics;From+Brain+Signals+to+Autonomous+Systems;Harvard+Master+Thesis+on+Sports+Computer+Vision;Always+From+Curiosity+To+Concept" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=700&amp;height=35&amp;lines=Computer+Vision+%7C+Deep+Learning+%7C+Robotics;From+Brain+Signals+to+Autonomous+Systems;Harvard+Master+Thesis+on+Sports+Computer+Vision;Always+From+Curiosity+To+Concept" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -214,4 +214,4 @@ Robotic project using a Thymio robot to autonomously complete a maze using compu
 <br/>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d6af2,100:1a1b27&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,50:2d6af2,100:1a1b27&amp;height=100&amp;section=footer" width="100%"/>
