@@ -201,26 +201,6 @@ Robotic project using a Thymio robot to autonomously complete a maze using compu
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arthur-andre&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;ring_color=58a6ff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-andre&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;hide=Jupyter%20Notebook" />
-</div>
-
-<br/>
-
-<!-- Contribution Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthur-andre/arthur-andre/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthur-andre/arthur-andre/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/arthur-andre/arthur-andre/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
 ## Languages
 
 <div align="center">
