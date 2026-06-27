@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Arthur%20Andr%C3%A9&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Robotics%20%26%20Neuro-X%20Engineer&descSize=18&descColor=8b949e&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d6af2,100:1a1b27&height=220&section=header&text=Arthur%20Andre&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20%26%20Neuro-X%20Engineer&descSize=18&descColor=c9d1d9&descAlignY=55" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -40,6 +40,7 @@ I build systems at the intersection of **vision**, **learning** and **robotics**
 <td>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
 </td>
@@ -224,11 +225,13 @@ Robotic project using a Thymio robot to autonomously complete a maze using compu
 
 <div align="center">
 
-**French** -- Native &nbsp;&nbsp; | &nbsp;&nbsp; **English** -- Proficient &nbsp;&nbsp; | &nbsp;&nbsp; **German** -- Basic
+![French](https://img.shields.io/badge/French-Native-2d6af2?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Proficient-58a6ff?style=for-the-badge)
+![German](https://img.shields.io/badge/German-Basic-8b949e?style=for-the-badge)
 
 </div>
 
 <br/>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d6af2,100:1a1b27&height=100&section=footer" width="100%"/>
