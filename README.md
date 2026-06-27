@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,50:2d6af2,100:1a1b27&amp;height=220&amp;section=header&amp;text=Arthur%20Andre&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Robotics%20and%20Neuro-X%20Engineer&amp;descSize=18&amp;descColor=c9d1d9&amp;descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,50:2d6af2,100:1a1b27&amp;height=220&amp;section=header&amp;text=Arthur%20Andre&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Robotics&amp;descSize=18&amp;descColor=c9d1d9&amp;descAlignY=55" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=700&amp;height=35&amp;lines=Computer+Vision+%7C+Deep+Learning+%7C+Robotics;From+Brain+Signals+to+Autonomous+Systems;Harvard+Master+Thesis+on+Sports+Computer+Vision;Always+From+Curiosity+To+Concept" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=700&amp;height=35&amp;lines=ML+Engineer+%7C+Computer+Vision;LLM+Pipelines+%7C+MLOps+%7C+LLMOps;Computer+Vision+%7C+Deep+Learning+%7C+Robotics;From+Brain+Signals+to+Autonomous+Systems;Harvard+Master+Thesis+on+Sports+Computer+Vision;Always+From+Curiosity+To+Concept" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,11 +24,12 @@
 ```text
 Location  :  Paris, France
 Education :  MSc Robotics & Neuro-X, EPFL (Switzerland)
-Focus     :  Computer Vision, Deep Learning, Neuroengineering
-Currently :  AI Implementation & Development
+Roles     :  ML Engineer, Data Scientist
+Focus     :  Computer Vision, Deep Learning, LLM Pipelines, MLOps, LLMOps
+Currently :  AI Implementation, ML Engineering, LLM Pipelines and Data Analysis
 ```
 
-I build systems at the intersection of **vision**, **learning** and **robotics** -- from reconstructing visual perception from brain activity to tracking athletes on a basketball court. I care about shipping things that work in the real world, not just in notebooks.
+I build systems at the intersection of **vision**, **learning** and **robotics** — as an **ML engineer** and **data scientist**, from exploratory analysis and model training to **LLM pipelines** in production (**MLOps** / **LLMOps**). From reconstructing visual perception from brain activity to tracking athletes on a basketball court, I care about shipping things that work in the real world, not just in notebooks.
 
 <br/>
 
@@ -63,6 +64,8 @@ I build systems at the intersection of **vision**, **learning** and **robotics**
   <img src="https://img.shields.io/badge/RAG-4A154B?style=flat&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/MCP-58a6ff?style=flat&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLOps-326CE5?style=flat&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMOps-7C3AED?style=flat&amp;logoColor=white"/>
 </td>
 </tr>
 <tr>
@@ -92,7 +95,7 @@ I build systems at the intersection of **vision**, **learning** and **robotics**
 
 ## Featured Projects
 
-> Selected work spanning autonomous driving, neuroscience, sports analytics, and robotics.
+> Selected work spanning ML engineering, data science, autonomous driving, neuroscience, sports analytics, and robotics.
 
 <br/>
 
